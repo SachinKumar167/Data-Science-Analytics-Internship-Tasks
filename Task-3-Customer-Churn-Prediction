@@ -1,0 +1,22 @@
+# Task 3 - Customer Churn Prediction
+
+## Objective
+Predict customer churn using Machine Learning.
+
+## Dataset
+Churn Modelling Dataset
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+## Files
+- task3_churn.py
+- Customer Churn Prediction.pdf
+
+## Result
+Logistic Regression model achieved approximately 81.4% accuracy.
